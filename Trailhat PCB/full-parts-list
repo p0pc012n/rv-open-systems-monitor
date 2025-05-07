@@ -1,0 +1,17 @@
+1. trailhat pcb (custom pcb, see gerber files), QTY 1
+2. extra tall female headers for raspberry pi pico, QTY 1 pair
+3. waveshare 2.9 in epaper four color grayscale display for pico, QTY 1
+
+Components available at digikey:
+1	1N5817DIODE SCHOTTKY 20V 1A DO41,	QTY 3
+2	SHORT PLUG HEADERS FOR RASPBERRY, QTY 1 pair
+3	CAP ALUM 100UF 10% 16V RADIAL TH, QTY 1
+4	Raspberry Pi	RASPBERRY PI PICO 2 W RP2350, QTY 1
+5	CAP CER 0.1UF 200V X8R RADIAL, QTY 1
+6	RES 34.8K OHM 1% 1/4W AXIAL, QTY 1
+7	RES 10.2K OHM 1% 1/4W AXIAL, QTY 1
+8	RES 5.76K OHM 1% 1/4W AXIAL, QTY 2
+9	RES 8.2K OHM 1% 1/4W AXIAL, QTY 2
+10	LM2940T-8.0/NOPB-ND	LM2940T-8.0/NOPB	Texas Instruments	IC REG LINEAR 8V 1A TO220-3,		QTY 1
+11	CONN HEADER R/A 7POS 2.54MM, QTY 1
+12	1N4728A DIODE ZENER 3.3V 1W DO41, QTY 3
